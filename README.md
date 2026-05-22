@@ -243,7 +243,7 @@ Backend APIs support:
 
 # ⚡ Installation
 
-git clone https://github.com/your-repo.git
+git clone https://github.com/sabeehhashmi/MediCare-Complete-Healthcare-Patient-Management-Platform.git
 
 composer install
 
