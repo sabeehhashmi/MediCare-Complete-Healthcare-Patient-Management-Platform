@@ -1,0 +1,36 @@
+[11-Feb-2026 12:47:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/dxbitprojects/public_html/K46hyg/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/routes/api.php on line 7
+[11-Feb-2026 12:48:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/dxbitprojects/public_html/K46hyg/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/routes/api.php on line 7
+[12-Feb-2026 06:12:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/dxbitprojects/public_html/K46hyg/routes/web.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/routes/web.php on line 18
+[12-Feb-2026 06:13:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/dxbitprojects/public_html/K46hyg/routes/hospital.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/routes/hospital.php on line 14
+[12-Feb-2026 06:13:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/dxbitprojects/public_html/K46hyg/routes/front.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/routes/front.php on line 6
+[12-Feb-2026 06:13:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/dxbitprojects/public_html/K46hyg/routes/front.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/routes/front.php on line 6
+[12-Feb-2026 06:13:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/dxbitprojects/public_html/K46hyg/routes/clinic.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/routes/clinic.php on line 14
+[12-Feb-2026 06:13:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/dxbitprojects/public_html/K46hyg/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/routes/api.php on line 7
+[12-Feb-2026 06:13:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/dxbitprojects/public_html/K46hyg/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/routes/api.php on line 7

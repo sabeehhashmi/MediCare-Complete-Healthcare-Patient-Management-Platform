@@ -1,0 +1,8 @@
+[07-Feb-2026 06:05:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dxbitprojects/public_html/K46hyg/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/config/app.php on line 16
+[07-Feb-2026 06:05:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dxbitprojects/public_html/K46hyg/config/database.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/config/database.php on line 19

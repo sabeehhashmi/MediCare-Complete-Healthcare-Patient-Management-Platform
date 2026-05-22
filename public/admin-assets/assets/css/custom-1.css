@@ -1,0 +1,86 @@
+:root{
+    --darkshade-color: #1C1D24;
+}
+.toggle-btn-g-tabs-cale{
+
+}
+.toggle-btn-g-tabs-cale .btn{
+    display: flex;
+    align-items: center;
+}
+.toggle-btn-g-tabs-cale .icn{
+    width: 24px;
+    height: 24px;
+}
+.docs_added{
+    background: #00bfff;
+    border-color: #00bfff;
+    --bs-btn-active-bg: #00bfff;
+    --bs-btn-active-border-color:: #00bfff;
+    color: #fff
+}
+.toggle-btn-g-tabs-cale  .btn-check:checked+.btn{
+    background-color: var(--primary-color) !important;
+    border-color: var(--primary-color) !important;
+}
+.toggle-btn-g-tabs-cale  .btn-check:checked+.btn .icn{
+    filter: brightness(50);
+}
+.fc-event, .fc-event-dot {
+    background-color: var(--primary-color);
+}
+.fc .fc-daygrid-day.fc-day-today .fc-daygrid-day-number {
+    background-color: var(--primary-color);
+}
+.btn-outline-primary {
+    --bs-btn-border-color: var(--primary-color);
+    --bs-btn-color: var(--primary-color);
+}
+
+.btn-outline-primary:hover, .btn-outline-primary:active, .btn-outline-primary:focus{
+    background: var(--primary-color);
+    border-color: var(--primary-color);
+    --bs-btn-active-bg: var(--primary-color);
+    --bs-btn-active-border-color:: var(--primary-color);
+    color: var(--white-color)
+}
+.fc .fc-button-primary {
+    background-color: var(--darkshade-color);
+    border-color: var(--darkshade-color);
+}
+.fc a[data-navlink]{
+    color: var(--primary-color);
+}
+.fc .fc-button-primary:not(:disabled).fc-button-active, .fc .fc-button-primary:not(:disabled):active {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+}
+.patient-link{
+    /* font-weight: 600; */
+    color: var(--darkshade-color);
+}
+.table-wrap .btn-light{
+    height: auto;
+    background-color: #F1E3E9;
+}
+.mail-list .icn-bx{
+    background: #F1E3E9;
+    width: 45px;
+    height: 45px;
+    text-align: center;
+    color: var(--primary-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+.mail-list a.active {
+    color: var(--primary-color);
+    background-color: #F1E3E9;
+}
+.bg-primary-subtle {
+    background-color: #F1E3E9 !important;
+}
+.mail-list a.active h5{
+    color: var(--primary-color);
+}

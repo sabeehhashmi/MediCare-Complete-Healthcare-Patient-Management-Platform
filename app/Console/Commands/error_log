@@ -1,0 +1,116 @@
+[07-Feb-2026 05:41:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/AppoitmentReminder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/AppoitmentReminder.php on line 10
+[07-Feb-2026 05:41:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/UpdateUserFirebaseNode.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/UpdateUserFirebaseNode.php on line 8
+[07-Feb-2026 05:42:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/AdminNotifications.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/AdminNotifications.php on line 9
+[07-Feb-2026 05:42:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/AppointmentReminderMail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/AppointmentReminderMail.php on line 8
+[07-Feb-2026 05:42:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/AppointmentReminderMail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/AppointmentReminderMail.php on line 8
+[07-Feb-2026 05:45:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/AppoitmentReminder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/AppoitmentReminder.php on line 10
+[07-Feb-2026 05:49:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/AdminNotifications.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/AdminNotifications.php on line 9
+[07-Feb-2026 05:49:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/AdminNotifications.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/AdminNotifications.php on line 9
+[07-Feb-2026 05:50:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/AdminNotifications.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/AdminNotifications.php on line 9
+[07-Feb-2026 05:50:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/AdminNotifications.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/AdminNotifications.php on line 9
+[07-Feb-2026 05:51:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/SendVerificationMail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/SendVerificationMail.php on line 10
+[07-Feb-2026 05:59:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/AdminNotifications.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/AdminNotifications.php on line 9
+[07-Feb-2026 06:05:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/AdminNotifications.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/AdminNotifications.php on line 9
+[07-Feb-2026 06:05:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/AgentNotifications.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/AgentNotifications.php on line 9
+[07-Feb-2026 06:05:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/AppointmentReminderMail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/AppointmentReminderMail.php on line 8
+[07-Feb-2026 06:05:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/AppoitmentReminder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/AppoitmentReminder.php on line 10
+[07-Feb-2026 06:05:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/AutoCancelPreviousAppoitments.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/AutoCancelPreviousAppoitments.php on line 7
+[07-Feb-2026 06:05:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/CopyS3Files.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/CopyS3Files.php on line 8
+[07-Feb-2026 06:05:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/DoctorNotification.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/DoctorNotification.php on line 10
+[07-Feb-2026 06:05:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/ExtractDoctorImages.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/ExtractDoctorImages.php on line 11
+[07-Feb-2026 06:05:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/ExtractHospitalImages.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/ExtractHospitalImages.php on line 12
+[07-Feb-2026 06:05:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/HospitalNotification.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/HospitalNotification.php on line 10
+[07-Feb-2026 06:05:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/SendEmailNotificationPatient.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/SendEmailNotificationPatient.php on line 7
+[07-Feb-2026 06:05:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/SendLoginOtpMail.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/SendLoginOtpMail.php on line 9
+[07-Feb-2026 06:05:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/SendNotiticationsPatient.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/SendNotiticationsPatient.php on line 10
+[07-Feb-2026 06:05:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/SendSmsNotificationPatient.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/SendSmsNotificationPatient.php on line 10
+[07-Feb-2026 06:05:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/SendUpdateEmailOtp.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/SendUpdateEmailOtp.php on line 7
+[07-Feb-2026 06:05:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/SendVerificationMail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/SendVerificationMail.php on line 10
+[07-Feb-2026 06:05:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/UpdateUserFirebaseNode.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/app/Console/Commands/UpdateUserFirebaseNode.php on line 8

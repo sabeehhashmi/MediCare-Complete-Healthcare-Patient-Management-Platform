@@ -1,0 +1,4 @@
+[02-Feb-2026 06:10:38 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/K46hyg/app/Http/Controllers/admin/AppointmentsController.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/app/Http/Controllers/admin/AppointmentsController.php on line 52

@@ -1,0 +1,12 @@
+[05-Feb-2026 12:34:24 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/K46hyg/app/Http/Controllers/HomeController.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/app/Http/Controllers/HomeController.php on line 49
+[05-Feb-2026 12:34:29 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/K46hyg/app/Http/Controllers/HomeController.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/app/Http/Controllers/HomeController.php on line 49
+[05-Feb-2026 12:34:59 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/K46hyg/app/Http/Controllers/CoustomerController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/K46hyg/app/Http/Controllers/CoustomerController.php on line 9
