@@ -241,3 +241,24 @@ Backend APIs support:
 
 ---
 
+# ⚡ Installation
+
+git clone https://github.com/your-repo.git
+
+composer install
+
+cp .env.example .env
+
+php artisan key:generate
+
+php artisan migrate
+
+php artisan serve
+
+
+# 👨‍💻 Developer
+
+Developed by: Sabeeh Hashmi
+
+Email: sabeeh.hashmi2@gmail.com  
+LinkedIn: https://www.linkedin.com/in/sabeeh-hashmi-0b2145113/
